@@ -1,0 +1,3 @@
+/Users/maged/CLionProjects/Hadhud/Course 3/solve all previous problem solving video no 20/problem 35/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maged/CLionProjects/Hadhud/Course 3/solve all previous problem solving video no 20/problem 35/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maged/CLionProjects/Hadhud/Course 3/solve all previous problem solving video no 20/problem 35/cmake-build-debug/CMakeFiles/problem_35.dir

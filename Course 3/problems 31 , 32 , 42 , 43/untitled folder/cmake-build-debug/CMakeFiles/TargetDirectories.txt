@@ -1,0 +1,3 @@
+/Users/maged/CLionProjects/Hadhud/Course 3/problems 31 , 32 , 42 , 43/untitled folder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maged/CLionProjects/Hadhud/Course 3/problems 31 , 32 , 42 , 43/untitled folder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maged/CLionProjects/Hadhud/Course 3/problems 31 , 32 , 42 , 43/untitled folder/cmake-build-debug/CMakeFiles/untitled_folder.dir
